@@ -3,6 +3,7 @@ name = "mx-rs"
 version = "0.1.0"
 edition = "2021"
 license = "SPECIFY A LICENSE BEFORE PUBLISHING"
+description = "A Rust SDK for interacting with the mx.com API"
 
 [dependencies]
 bytes = "1.9"
