@@ -2,6 +2,8 @@
 
 A Rust SDK for interacting with the [MX API](https://www.mx.com/). This client library is automatically generated from the MX OpenAPI specification using [progenitor](https://github.com/oxidecomputer/progenitor).
 
+Documentation: https://docs.rs/crate/mx-rs/latest
+
 ## Overview
 
 MX is a financial data platform that provides APIs for account aggregation, transaction data, financial insights, and more. This SDK provides a type-safe Rust interface to interact with all MX API endpoints.
@@ -93,8 +95,9 @@ cargo test
 
 ## Documentation
 
-For detailed API documentation, refer to the [official MX API documentation](https://docs.mx.com/).
-To generate documentation of this repo: `cargo doc --open`.
+For detailed MX API documentation, refer to the [official MX API documentation](https://docs.mx.com/).
+
+For docmentation of this crate: https://docs.rs/crate/mx-rs/latest
 
 ## License
 
